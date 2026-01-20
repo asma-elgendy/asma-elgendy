@@ -1,37 +1,70 @@
 <!-- Animated Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Asma+Elgendy;Flutter+%26+Backend+Developer;Building+Powerful+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Asma+Elgendy;Flutter+Developer;Mobile+%26+Backend+Engineer;Building+Scalable+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 من أنا؟
 أنا **Eng.Asma Elgendy**، مطورة تطبيقات موبايل متخصصة في **Flutter** مع خبرة قوية في **Back-End Development**.  
-أبني تطبيقات **Android – iOS – Web** باحترافية، مع اهتمام خاص بالأداء، الـ UX، والـ Clean Code.
+أعمل على بناء تطبيقات **سريعة، مرنة، وقابلة للتوسع** لأنظمة **Android – iOS – Web**، مع التركيز على الأداء وتجربة المستخدم.
+
+💡 أحب تحويل الأفكار المعقدة إلى حلول تقنية بسيطة وقابلة للتنفيذ.
 
 ---
 
-## 🧰 التقنيات واللغات
+## 🚀 مهاراتي الأساسية
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,firebase,git,github,postman" />
-</p>
-
----
-
-## 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
+### 📱 Mobile Development
 - Flutter (Android / iOS / Web)
 - Responsive UI & Animations
-- State Management (GetX – Provider)
-- Clean Architecture
+- Clean Architecture & MVC / MVVM
+- State Management (GetX, Provider)
+
+### 🧠 Back-End Development
+- PHP (RESTful APIs)
+- MySQL / phpMyAdmin
+- Authentication & Authorization
+- Real-Time Systems (WebSocket / Pusher)
+
+### 🗺️ Maps & Real-Time
+- Google Maps / Mapbox
+- Location Tracking (lat / lng)
+- Live Updates & Push Notifications
+
+### 🛠️ Tools & Tech
+- Git & GitHub
+- Postman
+- Firebase (عند الحاجة)
+- API Integration & Testing
 
 ---
 
-## 🧠 Back-End Development
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql" />
+## 🌟 ما الذي أعمل عليه؟
+- 📦 تطبيقات تجارة إلكترونية (B2C / B2B)
+- 🚗 تطبيقات تعتمد على الموقع (Uber-like systems)
+- 💬 أنظمة شات و Real-Time
+- 🎥 Flutter Web بتجارب بصرية تفاعلية
+
+---
+
+## 📊 إحصائيات GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asma-elgendy&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asma-elgendy&theme=radical" width="48%" />
+</p>
+
+---
+
+## 📫 تواصلي معي
+- 💼 Flutter & Backend Projects
+- 🤝 Freelance & Collaboration
+- 🎓 Teaching & Mentorship
+
+> ✨ *"Code is not just lines… it's an experience."*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asma-elgendy&color=ff69b4&style=flat-square" />
 </p>
