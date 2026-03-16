@@ -6,14 +6,9 @@
 ---
 
 ## 👩‍💻 
- **Eng.Asma Elgendy**، مطورة تطبيقات موبايل متخصصة في **Flutter** مع خبرة قوية في **Back-End Development**.  
-أعمل على بناء تطبيقات **سريعة، مرنة، وقابلة للتوسع** لأنظمة **Android – iOS – Web**، مع التركيز على الأداء وتجربة المستخدم.
+**Eng.Asma Elgendy** **Flutter**  **Back-End Development**.  
+**Android – iOS – Web**
 
-💡 أحب تحويل الأفكار المعقدة إلى حلول تقنية بسيطة وقابلة للتنفيذ.
-
----
-
-## 🚀 مهاراتي الأساسية
 
 ### 📱 Mobile Development
 - Flutter (Android / iOS / Web)
@@ -40,30 +35,6 @@
 
 ---
 
-## 🌟 ما الذي أعمل عليه؟
-- 📦 تطبيقات تجارة إلكترونية (B2C / B2B)
-- 🚗 تطبيقات تعتمد على الموقع (Uber-like systems)
-- 💬 أنظمة شات و Real-Time
-- 🎥 Flutter Web بتجارب بصرية تفاعلية
-
----
-
-## 📊 إحصائيات GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asma-elgendy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asma-elgendy&theme=radical" width="48%" />
-</p>
-
----
-
-## 📫 تواصلي معي
-- 💼 Flutter & Backend Projects
-- 🤝 Freelance & Collaboration
-- 🎓 Teaching & Mentorship
-
-> ✨ *"Code is not just lines… it's an experience."*
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asma-elgendy&color=ff69b4&style=flat-square" />
