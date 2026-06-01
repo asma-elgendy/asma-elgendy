@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Asma+Elgendy;Flutter+Developer;Mobile+%26+Backend+Engineer;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg2a29sbjZnNDhrcG16bmtxZDlhdWx1d3Y3OXhmYm1rdWJmYW5tOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif">
+  <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRsN3I5cHAwY2l6Mm9tcWRpYjU2N3BsaXE5dm85bGJkbjF4MmExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6LYsh7K4N08b8F8k32/giphy.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Asma Elgendy</h1>
 
