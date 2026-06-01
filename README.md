@@ -2,9 +2,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Asma+Elgendy;Flutter+Developer;Mobile+%26+Backend+Engineer;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTljeTB5OGdtbzBtN20yc2tpOTd1emM0em9hMXpweWNuYXh4dm9wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpZYMHFtFu8f1kvwXK/giphy.gif">
+  <img
+    width="100%"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTljeTB5OGdtbzBtN20yc2tpOTd1emM0em9hMXpweWNuYXh4dm9wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpZYMHFtFu8f1kvwXK/giphy.gif"
+    style="border-radius:30px;"
+  />
 </p>
+
 <h1 align="center">Hi 👋, I'm Asma Elgendy</h1>
 
 <h3 align="center">
