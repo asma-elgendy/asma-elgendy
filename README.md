@@ -70,37 +70,6 @@ Passionate about building scalable mobile applications, creating clean user expe
   <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,firebase,git,github,vscode,androidstudio,postman" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asma-elgendy&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asma-elgendy&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-elgendy&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/asma-elgendy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  
-  <a href="mailto:asmaelgendy98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asma-elgendy&label=Profile+Views&color=ff69b4&style=for-the-badge" />
