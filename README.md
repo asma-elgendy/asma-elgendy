@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Asma+Elgendy;Flutter+Developer;Mobile+%26+Backend+Engineer;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Asma+Elgendy;Flutter+Developer;Mobile+%26+Backend+Engineer;Building;Scalable;Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
